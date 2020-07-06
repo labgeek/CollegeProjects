@@ -1,0 +1,31 @@
+Output for homework 5:
+
+The original array of pointers to characters:  
+
+Element[0] = "This"
+Element[1] = "is"
+Element[2] = "the"
+Element[3] = "TEST"
+Element[4] = "sentence"
+Element[5] = "that"
+Element[6] = "is"
+Element[7] = "to"
+Element[8] = "be"
+Element[9] = "used"
+Element[10] = "for"
+Element[11] = "ha5"
+
+The sorted array of pointers to characters:  
+
+Element[0] = "TEST"
+Element[1] = "This"
+Element[2] = "be"
+Element[3] = "for"
+Element[4] = "ha5"
+Element[5] = "is"
+Element[6] = "is"
+Element[7] = "sentence"
+Element[8] = "that"
+Element[9] = "the"
+Element[10] = "to"
+Element[11] = "used"
