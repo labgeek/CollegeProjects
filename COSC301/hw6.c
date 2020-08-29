@@ -33,9 +33,7 @@ int main()
 	PrintInstr();
 
 	for (int count = 0; count < maxRow; count++)
-	{
 		longestword = GetSentence(longestword, wordlength);
-	}
 
 	PrintOutput(longestword, wordlength);
 	return 0;
