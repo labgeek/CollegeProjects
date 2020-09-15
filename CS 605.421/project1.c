@@ -40,14 +40,11 @@ const int YES = 1; //constant variable set to 1
 const int NO = 0; //constant variable set to 0
 
 #include <stdio.h> //header file for input/output
-
 #include <time.h> //header file for computing run time
-
 #include <stdlib.h> //for the rand function
-
 #include <ctype.h> //used for tolower() function
 
-#
+
 define max_loop 500 //# of for loops for sort comparison
 #define row 20 //puts numbers in rows of 20
 #define cent 100 //used with random function (0-99)
