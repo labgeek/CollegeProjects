@@ -1,12 +1,10 @@
 /**
- * 605.421 - Principles of Operating Systems
+ * 605.431
  * @date 12/15/99
  */
 
 #ifndef LISTNODE_H_
 #define LISTNODE_H_
-
-
 
 class ListNode {
     friend List <ListNode> ;
