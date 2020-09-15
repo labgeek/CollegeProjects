@@ -42,5 +42,4 @@ protected:
 
 };
 
-
 #endif /* LIST_H_ */
