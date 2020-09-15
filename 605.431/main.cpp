@@ -1,5 +1,5 @@
 /**
- * 605.431 - Principles of Operating Systems
+ * 605.431 
  * @date December 15th, 1999
  */
 
